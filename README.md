@@ -21,7 +21,7 @@ ChatApp/
 
 Possible Improvements
 -------------------------
-Add private messaging (/msg <user>)
-Save chat history to file
-Build a GUI using JavaFX or Swing
-Add emoji or file support
+**Add private messaging (/msg <user>)
+**Save chat history to file
+**Build a GUI using JavaFX or Swing
+**Add emoji or file support
