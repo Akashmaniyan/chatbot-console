@@ -1,12 +1,12 @@
 # 💬 Java Console Chat Application
 
 A simple multi-client chat application using **Java Sockets and Multithreading**. Clients can connect to a server and exchange messages in real-time through the terminal.
-
+now its Update to Javafx ui
 ---
 
 ## 🚀 Features
 
-- Console-based chat system
+- Console-based chat system(now Ui)
 - Supports multiple clients simultaneously
 - Real-time message broadcasting
 - Usernames for clients
